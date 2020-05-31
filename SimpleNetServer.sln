@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleNetServer", "SimpleNetServer\SimpleNetServer.csproj", "{8AB9BE70-AA67-40AF-8812-54876B3834E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServerBase", "ServerBase\ServerBase.csproj", "{E2C928E9-3525-412F-BD30-C7E728A2ED50}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MySql", "MySql\MySql.csproj", "{E729607D-B2AB-4154-888D-5213097B7E29}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8AB9BE70-AA67-40AF-8812-54876B3834E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AB9BE70-AA67-40AF-8812-54876B3834E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AB9BE70-AA67-40AF-8812-54876B3834E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AB9BE70-AA67-40AF-8812-54876B3834E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2C928E9-3525-412F-BD30-C7E728A2ED50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2C928E9-3525-412F-BD30-C7E728A2ED50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2C928E9-3525-412F-BD30-C7E728A2ED50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2C928E9-3525-412F-BD30-C7E728A2ED50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E729607D-B2AB-4154-888D-5213097B7E29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E729607D-B2AB-4154-888D-5213097B7E29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E729607D-B2AB-4154-888D-5213097B7E29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E729607D-B2AB-4154-888D-5213097B7E29}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9CF04416-2672-46B6-A51E-E7C00503C6FE}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+D:\Program Files (x86)\VisualStudioProjects\SimpleNetServer\SimpleNetServer\ServerBase\bin\Debug\ServerBase.dll
+D:\Program Files (x86)\VisualStudioProjects\SimpleNetServer\SimpleNetServer\ServerBase\bin\Debug\ServerBase.pdb
+D:\Program Files (x86)\VisualStudioProjects\SimpleNetServer\SimpleNetServer\ServerBase\obj\Debug\ServerBase.csprojAssemblyReference.cache
+D:\Program Files (x86)\VisualStudioProjects\SimpleNetServer\SimpleNetServer\ServerBase\obj\Debug\ServerBase.csproj.CoreCompileInputs.cache
+D:\Program Files (x86)\VisualStudioProjects\SimpleNetServer\SimpleNetServer\ServerBase\obj\Debug\ServerBase.dll
+D:\Program Files (x86)\VisualStudioProjects\SimpleNetServer\SimpleNetServer\ServerBase\obj\Debug\ServerBase.pdb
+D:\Program Files (x86)\VisualStudioProjects\SimpleNetServer\SimpleNetServer\ServerBase\bin\Debug\log4net.dll
+D:\Program Files (x86)\VisualStudioProjects\SimpleNetServer\SimpleNetServer\ServerBase\bin\Debug\log4net.xml
+D:\Program Files (x86)\VisualStudioProjects\SimpleNetServer\SimpleNetServer\ServerBase\obj\Debug\ServerBase.csproj.CopyComplete
+D:\Program Files (x86)\VisualStudioProjects\SimpleNetServer\SimpleNetServer\ServerBase\bin\Debug\log4net.config

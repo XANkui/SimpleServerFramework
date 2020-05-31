@@ -1,0 +1,350 @@
+﻿2020-05-30 17:23:20,395 [1] INFO  ServerBase.Debug - 服务器启动监听127.0.0.1:8021成功 ServerBase.Debug 
+2020-05-30 17:26:48,399 [1] INFO  ServerBase.Debug - 服务器启动监听127.0.0.1:8021成功 ServerBase.Debug 
+2020-05-30 17:26:55,007 [1] DEBUG ServerBase.Debug - 一个客户端连接:127.0.0.1:8021,当前1个客户端在线 ServerBase.Debug 
+2020-05-30 17:27:44,323 [1] DEBUG ServerBase.Debug - 一个客户端断开连接，当前总连接数为：0  ServerBase.Debug 
+2020-05-30 17:29:51,890 [1] INFO  ServerBase.Debug - 服务器启动监听127.0.0.1:8021成功 ServerBase.Debug 
+2020-05-30 17:30:00,812 [1] DEBUG ServerBase.Debug - 一个客户端连接:127.0.0.1:8021,当前1个客户端在线 ServerBase.Debug 
+2020-05-30 17:31:57,443 [1] DEBUG ServerBase.Debug - 一个客户端断开连接，当前总连接数为：0  ServerBase.Debug 
+2020-05-30 17:36:20,727 [1] INFO  ServerBase.Debug - 服务器启动监听127.0.0.1:8021成功 ServerBase.Debug 
+2020-05-30 17:36:25,815 [1] DEBUG ServerBase.Debug - 一个客户端连接:127.0.0.1:8021,当前1个客户端在线 ServerBase.Debug 
+2020-05-30 17:36:33,652 [1] DEBUG ServerBase.Debug - 一个客户端断开连接，当前总连接数为：0  ServerBase.Debug 
+2020-05-30 17:40:33,770 [1] INFO  ServerBase.Debug - 服务器启动监听127.0.0.1:8021成功 ServerBase.Debug 
+2020-05-30 17:40:39,434 [1] DEBUG ServerBase.Debug - 一个客户端连接:127.0.0.1:8021,当前1个客户端在线 ServerBase.Debug 
+2020-05-30 17:40:47,987 [1] DEBUG ServerBase.Debug - 一个客户端断开连接，当前总连接数为：0  ServerBase.Debug 
+2020-05-30 17:41:26,921 [1] INFO  ServerBase.Debug - 服务器启动监听127.0.0.1:8021成功 ServerBase.Debug 
+2020-05-30 17:41:30,740 [1] DEBUG ServerBase.Debug - 一个客户端连接:127.0.0.1:8021,当前1个客户端在线 ServerBase.Debug 
+2020-05-30 17:41:30,790 [1] DEBUG ServerBase.Debug - 接收到数据 ServerBase.Debug 
+2020-05-30 17:41:40,758 [1] DEBUG ServerBase.Debug - 接收到数据 ServerBase.Debug 
+2020-05-30 17:41:40,759 [1] DEBUG ServerBase.Debug - 一个客户端断开连接，当前总连接数为：0  ServerBase.Debug 
+2020-05-30 17:43:39,834 [1] INFO  ServerBase.Debug - 服务器启动监听127.0.0.1:8021成功 ServerBase.Debug 
+2020-05-30 17:43:42,212 [1] DEBUG ServerBase.Debug - 一个客户端连接:127.0.0.1:8021,当前1个客户端在线 ServerBase.Debug 
+2020-05-30 17:43:42,270 [1] DEBUG ServerBase.Debug - OnReceiveData ServerBase.Debug 
+2020-05-30 17:44:30,256 [1] INFO  ServerBase.Debug - 服务器启动监听127.0.0.1:8021成功 ServerBase.Debug 
+2020-05-30 17:44:32,955 [1] DEBUG ServerBase.Debug - 一个客户端连接:127.0.0.1:8021,当前1个客户端在线 ServerBase.Debug 
+2020-05-30 17:47:41,582 [1] INFO  ServerBase.Debug - 服务器启动监听127.0.0.1:8021成功 ServerBase.Debug 
+2020-05-30 17:47:45,533 [1] DEBUG ServerBase.Debug - 一个客户端连接:127.0.0.1:8021,当前1个客户端在线 ServerBase.Debug 
+2020-05-30 17:47:45,585 [1] DEBUG ServerBase.Debug - 数据小于 4 ServerBase.Debug 
+2020-05-30 17:47:50,716 [1] DEBUG ServerBase.Debug - 一个客户端断开连接，当前总连接数为：0  ServerBase.Debug 
+2020-05-30 17:51:36,569 [1] INFO  ServerBase.Debug - 服务器启动监听127.0.0.1:8021成功 ServerBase.Debug 
+2020-05-30 17:51:40,851 [1] DEBUG ServerBase.Debug - 一个客户端连接:127.0.0.1:8021,当前1个客户端在线 ServerBase.Debug 
+2020-05-30 17:51:40,905 [1] DEBUG ServerBase.Debug - 数据小于 4 ServerBase.Debug 
+2020-05-30 17:52:11,273 [1] INFO  ServerBase.Debug - 服务器启动监听127.0.0.1:8021成功 ServerBase.Debug 
+2020-05-30 17:52:14,462 [1] DEBUG ServerBase.Debug - 一个客户端连接:127.0.0.1:8021,当前1个客户端在线 ServerBase.Debug 
+2020-05-30 17:52:14,513 [1] DEBUG ServerBase.Debug - 数据小于 4 ServerBase.Debug 
+2020-05-30 17:52:17,568 [1] DEBUG ServerBase.Debug - 一个客户端断开连接，当前总连接数为：0  ServerBase.Debug 
+2020-05-30 17:54:26,897 [1] DEBUG ServerBase.Debug - 一个客户端连接:127.0.0.1:8021,当前1个客户端在线 ServerBase.Debug 
+2020-05-30 17:54:26,951 [1] DEBUG ServerBase.Debug - 数据小于 4 ServerBase.Debug 
+2020-05-30 17:56:27,500 [1] DEBUG ServerBase.Debug - 心跳超时，Ping Close 127.0.0.1:59681 ServerBase.Debug 
+2020-05-30 17:56:27,501 [1] DEBUG ServerBase.Debug - 一个客户端断开连接，当前总连接数为：0  ServerBase.Debug 
+2020-05-30 17:58:30,257 [1] DEBUG ServerBase.Debug - 一个客户端连接:127.0.0.1:8021,当前1个客户端在线 ServerBase.Debug 
+2020-05-30 17:58:30,310 [1] DEBUG ServerBase.Debug - 数据小于 4 ServerBase.Debug 
+2020-05-30 17:59:38,862 [1] DEBUG ServerBase.Debug - 一个客户端断开连接，当前总连接数为：0  ServerBase.Debug 
+2020-05-30 17:59:43,218 [1] DEBUG ServerBase.Debug - 一个客户端连接:127.0.0.1:8021,当前1个客户端在线 ServerBase.Debug 
+2020-05-30 17:59:43,271 [1] DEBUG ServerBase.Debug - 数据小于 4 ServerBase.Debug 
+2020-05-30 17:59:52,984 [1] DEBUG ServerBase.Debug - 一个客户端断开连接，当前总连接数为：0  ServerBase.Debug 
+2020-05-30 18:00:36,518 [1] DEBUG ServerBase.Debug - 一个客户端连接:127.0.0.1:8021,当前1个客户端在线 ServerBase.Debug 
+2020-05-30 18:00:36,571 [1] DEBUG ServerBase.Debug - 数据小于 4 ServerBase.Debug 
+2020-05-30 18:01:48,584 [1] INFO  ServerBase.Debug - 服务器启动监听127.0.0.1:8021成功 ServerBase.Debug 
+2020-05-30 18:01:52,152 [1] DEBUG ServerBase.Debug - 一个客户端连接:127.0.0.1:8021,当前1个客户端在线 ServerBase.Debug 
+2020-05-30 18:01:52,239 [1] ERROR ServerBase.Debug - 解析协议名称 Error :System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 SimpleNetServer.Proto.MessageBase.DecodeName(Byte[] bytes, Int32 offset, Int32& count) 位置 D:\Program Files (x86)\VisualStudioProjects\SimpleNetServer\SimpleNetServer\SimpleNetServer\Proto\MessageBase.cs:行号 49
+   在 SimpleNetServer.Net.ServerSocket.OnReceiveData(ClientSocket clintSocket) 位置 D:\Program Files (x86)\VisualStudioProjects\SimpleNetServer\SimpleNetServer\SimpleNetServer\Net\ServerSocket.cs:行号 242 ServerBase.Debug 
+2020-05-30 18:01:52,243 [1] DEBUG ServerBase.Debug - 一个客户端断开连接，当前总连接数为：0  ServerBase.Debug 
+2020-05-30 18:04:56,253 [1] INFO  ServerBase.Debug - 服务器启动监听127.0.0.1:8021成功 ServerBase.Debug 
+2020-05-30 18:05:00,969 [1] DEBUG ServerBase.Debug - 一个客户端连接:127.0.0.1:8021,当前1个客户端在线 ServerBase.Debug 
+2020-05-30 18:05:01,124 [1] ERROR ServerBase.Debug - 协议解密出错 ：System.Security.Cryptography.CryptographicException: 要解密的数据的长度无效。
+   在 AES.AESDecrypt(Byte[] DecryptByte, String DecryptKey) 位置 D:\Program Files (x86)\VisualStudioProjects\SimpleNetServer\SimpleNetServer\ServerBase\AES.cs:行号 207
+   在 SimpleNetServer.Proto.MessageBase.Decode(ProtocolEnum protocol, Byte[] bytes, Int32 offset, Int32 count) 位置 D:\Program Files (x86)\VisualStudioProjects\SimpleNetServer\SimpleNetServer\SimpleNetServer\Proto\MessageBase.cs:行号 123 ServerBase.Debug 
+2020-05-30 18:05:01,126 [1] ERROR ServerBase.Debug - MessageSecret 解析协议内容 Error  ServerBase.Debug 
+2020-05-30 18:05:01,127 [1] DEBUG ServerBase.Debug - 一个客户端断开连接，当前总连接数为：0  ServerBase.Debug 
+2020-05-30 18:08:28,677 [1] INFO  ServerBase.Debug - 服务器启动监听127.0.0.1:8021成功 ServerBase.Debug 
+2020-05-30 18:08:32,433 [1] DEBUG ServerBase.Debug - 一个客户端连接:127.0.0.1:8021,当前1个客户端在线 ServerBase.Debug 
+2020-05-30 18:08:32,532 [1] ERROR ServerBase.Debug - 协议解密出错 ：System.Security.Cryptography.CryptographicException: 要解密的数据的长度无效。
+   在 AES.AESDecrypt(Byte[] DecryptByte, String DecryptKey) 位置 D:\Program Files (x86)\VisualStudioProjects\SimpleNetServer\SimpleNetServer\ServerBase\AES.cs:行号 207
+   在 SimpleNetServer.Proto.MessageBase.Decode(ProtocolEnum protocol, Byte[] bytes, Int32 offset, Int32 count) 位置 D:\Program Files (x86)\VisualStudioProjects\SimpleNetServer\SimpleNetServer\SimpleNetServer\Proto\MessageBase.cs:行号 123 ServerBase.Debug 
+2020-05-30 18:08:32,533 [1] ERROR ServerBase.Debug - MessageSecret 解析协议内容 Error  ServerBase.Debug 
+2020-05-30 18:08:32,534 [1] DEBUG ServerBase.Debug - 一个客户端断开连接，当前总连接数为：0  ServerBase.Debug 
+2020-05-30 18:12:49,929 [1] INFO  ServerBase.Debug - 服务器启动监听127.0.0.1:8021成功 ServerBase.Debug 
+2020-05-30 18:12:53,212 [1] DEBUG ServerBase.Debug - 一个客户端连接:127.0.0.1:8021,当前1个客户端在线 ServerBase.Debug 
+2020-05-30 18:12:53,321 [1] ERROR ServerBase.Debug - 协议解密出错 ：System.Security.Cryptography.CryptographicException: 要解密的数据的长度无效。
+   在 AES.AESDecrypt(Byte[] DecryptByte, String DecryptKey) 位置 D:\Program Files (x86)\VisualStudioProjects\SimpleNetServer\SimpleNetServer\ServerBase\AES.cs:行号 207
+   在 SimpleNetServer.Proto.MessageBase.Decode(ProtocolEnum protocol, Byte[] bytes, Int32 offset, Int32 count) 位置 D:\Program Files (x86)\VisualStudioProjects\SimpleNetServer\SimpleNetServer\SimpleNetServer\Proto\MessageBase.cs:行号 123 ServerBase.Debug 
+2020-05-30 18:12:53,321 [1] ERROR ServerBase.Debug - MessageSecret 解析协议内容 Error  ServerBase.Debug 
+2020-05-30 18:12:53,322 [1] DEBUG ServerBase.Debug - 一个客户端断开连接，当前总连接数为：0  ServerBase.Debug 
+2020-05-30 18:19:00,992 [1] INFO  ServerBase.Debug - 服务器启动监听127.0.0.1:8021成功 ServerBase.Debug 
+2020-05-30 18:19:03,671 [1] DEBUG ServerBase.Debug - 一个客户端连接:127.0.0.1:8021,当前1个客户端在线 ServerBase.Debug 
+2020-05-30 18:19:03,775 [1] ERROR ServerBase.Debug - 协议解密出错:System.Security.Cryptography.CryptographicException: 要解密的数据的长度无效。
+   在 AES.AESDecrypt(Byte[] DecryptByte, String DecryptKey) 位置 D:\Program Files (x86)\VisualStudioProjects\SimpleNetServer\SimpleNetServer\ServerBase\AES.cs:行号 207
+   在 SimpleNetServer.Proto.MessageBase.Decode(ProtocolEnum protocol, Byte[] bytes, Int32 offset, Int32 count) 位置 D:\Program Files (x86)\VisualStudioProjects\SimpleNetServer\SimpleNetServer\SimpleNetServer\Proto\MessageBase.cs:行号 157 ServerBase.Debug 
+2020-05-30 18:19:03,776 [1] ERROR ServerBase.Debug - MessageSecret 解析协议内容 Error  ServerBase.Debug 
+2020-05-30 18:19:03,776 [1] DEBUG ServerBase.Debug - 一个客户端断开连接，当前总连接数为：0  ServerBase.Debug 
+2020-05-30 18:20:28,077 [1] INFO  ServerBase.Debug - 服务器启动监听127.0.0.1:8021成功 ServerBase.Debug 
+2020-05-30 18:20:31,312 [1] DEBUG ServerBase.Debug - 一个客户端连接:127.0.0.1:8021,当前1个客户端在线 ServerBase.Debug 
+2020-05-30 18:20:31,417 [1] ERROR ServerBase.Debug - 协议解密出错:System.Security.Cryptography.CryptographicException: 要解密的数据的长度无效。
+   在 AES.AESDecrypt(Byte[] DecryptByte, String DecryptKey) 位置 D:\Program Files (x86)\VisualStudioProjects\SimpleNetServer\SimpleNetServer\ServerBase\AES.cs:行号 207
+   在 SimpleNetServer.Proto.MessageBase.Decode(ProtocolEnum protocol, Byte[] bytes, Int32 offset, Int32 count) 位置 D:\Program Files (x86)\VisualStudioProjects\SimpleNetServer\SimpleNetServer\SimpleNetServer\Proto\MessageBase.cs:行号 157 ServerBase.Debug 
+2020-05-30 18:20:31,418 [1] ERROR ServerBase.Debug - MessageSecret 解析协议内容 Error  ServerBase.Debug 
+2020-05-30 18:20:31,419 [1] DEBUG ServerBase.Debug - 一个客户端断开连接，当前总连接数为：0  ServerBase.Debug 
+2020-05-30 18:37:23,844 [1] INFO  ServerBase.Debug - 服务器启动监听127.0.0.1:8021成功 ServerBase.Debug 
+2020-05-30 18:37:27,386 [1] DEBUG ServerBase.Debug - 一个客户端连接:127.0.0.1:8021,当前1个客户端在线 ServerBase.Debug 
+2020-05-30 18:37:27,582 [1] ERROR ServerBase.Debug - 协议解密出错:System.Security.Cryptography.CryptographicException: 要解密的数据的长度无效。
+   在 AES.AESDecrypt(Byte[] DecryptByte, String DecryptKey) 位置 D:\Program Files (x86)\VisualStudioProjects\SimpleNetServer\SimpleNetServer\ServerBase\AES.cs:行号 207
+   在 SimpleNetServer.Proto.MessageBase.Decode(ProtocolEnum protocol, Byte[] bytes, Int32 offset, Int32 count) 位置 D:\Program Files (x86)\VisualStudioProjects\SimpleNetServer\SimpleNetServer\SimpleNetServer\Proto\MessageBase.cs:行号 157 ServerBase.Debug 
+2020-05-30 18:37:27,584 [1] ERROR ServerBase.Debug - MessageSecret 解析协议内容 Error  ServerBase.Debug 
+2020-05-30 18:37:27,584 [1] DEBUG ServerBase.Debug - 一个客户端断开连接，当前总连接数为：0  ServerBase.Debug 
+2020-05-30 18:40:14,615 [1] INFO  ServerBase.Debug - 服务器启动监听127.0.0.1:8021成功 ServerBase.Debug 
+2020-05-30 18:40:20,119 [1] DEBUG ServerBase.Debug - 一个客户端连接:127.0.0.1:8021,当前1个客户端在线 ServerBase.Debug 
+2020-05-30 18:40:20,221 [1] ERROR ServerBase.Debug - 协议解密出错:System.Security.Cryptography.CryptographicException: 要解密的数据的长度无效。
+   在 AES.AESDecrypt(Byte[] DecryptByte, String DecryptKey) 位置 D:\Program Files (x86)\VisualStudioProjects\SimpleNetServer\SimpleNetServer\ServerBase\AES.cs:行号 207
+   在 SimpleNetServer.Proto.MessageBase.Decode(ProtocolEnum protocol, Byte[] bytes, Int32 offset, Int32 count) 位置 D:\Program Files (x86)\VisualStudioProjects\SimpleNetServer\SimpleNetServer\SimpleNetServer\Proto\MessageBase.cs:行号 157 ServerBase.Debug 
+2020-05-30 18:40:20,222 [1] ERROR ServerBase.Debug - MessageSecret 解析协议内容 Error  ServerBase.Debug 
+2020-05-30 18:40:20,223 [1] DEBUG ServerBase.Debug - 一个客户端断开连接，当前总连接数为：0  ServerBase.Debug 
+2020-05-30 18:47:02,194 [1] INFO  ServerBase.Debug - 服务器启动监听127.0.0.1:8021成功 ServerBase.Debug 
+2020-05-30 18:47:07,430 [1] DEBUG ServerBase.Debug - 一个客户端连接:127.0.0.1:8021,当前1个客户端在线 ServerBase.Debug 
+2020-05-30 18:47:07,543 [1] ERROR ServerBase.Debug - 协议解密出错:System.Security.Cryptography.CryptographicException: 要解密的数据的长度无效。
+   在 AES.AESDecrypt(Byte[] DecryptByte, String DecryptKey) 位置 D:\Program Files (x86)\VisualStudioProjects\SimpleNetServer\SimpleNetServer\ServerBase\AES.cs:行号 207
+   在 SimpleNetServer.Proto.MessageBase.Decode(ProtocolEnum protocol, Byte[] bytes, Int32 offset, Int32 count) 位置 D:\Program Files (x86)\VisualStudioProjects\SimpleNetServer\SimpleNetServer\SimpleNetServer\Proto\MessageBase.cs:行号 157 ServerBase.Debug 
+2020-05-30 18:47:07,543 [1] ERROR ServerBase.Debug - MessageSecret 解析协议内容 Error  ServerBase.Debug 
+2020-05-30 18:47:07,544 [1] DEBUG ServerBase.Debug - 一个客户端断开连接，当前总连接数为：0  ServerBase.Debug 
+2020-05-30 18:49:40,554 [1] INFO  ServerBase.Debug - 服务器启动监听127.0.0.1:8021成功 ServerBase.Debug 
+2020-05-30 18:49:46,269 [1] DEBUG ServerBase.Debug - 一个客户端连接:127.0.0.1:8021,当前1个客户端在线 ServerBase.Debug 
+2020-05-30 18:49:46,380 [1] ERROR ServerBase.Debug - 协议解密出错:System.Security.Cryptography.CryptographicException: 要解密的数据的长度无效。
+   在 AES.AESDecrypt(Byte[] DecryptByte, String DecryptKey) 位置 D:\Program Files (x86)\VisualStudioProjects\SimpleNetServer\SimpleNetServer\ServerBase\AES.cs:行号 207
+   在 SimpleNetServer.Proto.MessageBase.Decode(ProtocolEnum protocol, Byte[] bytes, Int32 offset, Int32 count) 位置 D:\Program Files (x86)\VisualStudioProjects\SimpleNetServer\SimpleNetServer\SimpleNetServer\Proto\MessageBase.cs:行号 157 ServerBase.Debug 
+2020-05-30 18:49:46,380 [1] ERROR ServerBase.Debug - MessageSecret 解析协议内容 Error  ServerBase.Debug 
+2020-05-30 18:49:46,381 [1] DEBUG ServerBase.Debug - 一个客户端断开连接，当前总连接数为：0  ServerBase.Debug 
+2020-05-30 18:54:18,568 [1] INFO  ServerBase.Debug - 服务器启动监听127.0.0.1:8021成功 ServerBase.Debug 
+2020-05-30 18:54:24,395 [1] DEBUG ServerBase.Debug - 一个客户端链接：127.0.0.1:8021,当前1个客户端在线！ ServerBase.Debug 
+2020-05-30 18:54:24,500 [1] ERROR ServerBase.Debug - 协议解密出错:System.Security.Cryptography.CryptographicException: 要解密的数据的长度无效。
+   在 AES.AESDecrypt(Byte[] DecryptByte, String DecryptKey) 位置 D:\Program Files (x86)\VisualStudioProjects\SimpleNetServer\SimpleNetServer\ServerBase\AES.cs:行号 207
+   在 SimpleNetServer.Proto.MessageBase.Decode(ProtocolEnum protocol, Byte[] bytes, Int32 offset, Int32 count) 位置 D:\Program Files (x86)\VisualStudioProjects\SimpleNetServer\SimpleNetServer\SimpleNetServer\Proto\MessageBase.cs:行号 157 ServerBase.Debug 
+2020-05-30 18:54:24,501 [1] ERROR ServerBase.Debug - <log4net.Error>Exception during StringFormat: 索引(从零开始)必须大于或等于零，且小于参数列表的大小。 <format>{0}协议内容解析错误：MessageSecret</format><args>{}</args></log4net.Error> ServerBase.Debug 
+2020-05-30 18:54:24,528 [1] DEBUG ServerBase.Debug - 一个客户端断开链接，当前总连接数：0 ServerBase.Debug 
+2020-05-30 18:58:05,338 [1] INFO  ServerBase.Debug - 服务器启动监听127.0.0.1:8021成功 ServerBase.Debug 
+2020-05-30 18:58:09,886 [1] DEBUG ServerBase.Debug - 一个客户端链接：127.0.0.1:8021,当前1个客户端在线！ ServerBase.Debug 
+2020-05-30 18:58:10,011 [1] ERROR ServerBase.Debug - 协议解密出错:System.ArgumentNullException: 值不能为 null。
+参数名: type
+   在 ProtoBuf.Meta.TypeModel.PrepareDeserialize(Object value, Type& type)
+   在 ProtoBuf.Meta.TypeModel.Deserialize(Stream source, Object value, Type type, SerializationContext context)
+   在 ProtoBuf.Serializer.NonGeneric.Deserialize(Type type, Stream source)
+   在 SimpleNetServer.Proto.MessageBase.Decode(ProtocolEnum protocol, Byte[] bytes, Int32 offset, Int32 count) 位置 D:\Program Files (x86)\VisualStudioProjects\SimpleNetServer\SimpleNetServer\SimpleNetServer\Proto\MessageBase.cs:行号 268 ServerBase.Debug 
+2020-05-30 18:58:10,012 [1] ERROR ServerBase.Debug - <log4net.Error>Exception during StringFormat: 索引(从零开始)必须大于或等于零，且小于参数列表的大小。 <format>{0}协议内容解析错误：MessageSecret</format><args>{}</args></log4net.Error> ServerBase.Debug 
+2020-05-30 18:58:10,019 [1] DEBUG ServerBase.Debug - 一个客户端断开链接，当前总连接数：0 ServerBase.Debug 
+2020-05-30 18:59:51,532 [1] INFO  ServerBase.Debug - 服务器启动监听127.0.0.1:8021成功 ServerBase.Debug 
+2020-05-30 18:59:54,810 [1] DEBUG ServerBase.Debug - 一个客户端链接：127.0.0.1:8021,当前1个客户端在线！ ServerBase.Debug 
+2020-05-30 18:59:54,914 [1] ERROR ServerBase.Debug - 协议解密出错:System.ArgumentNullException: 值不能为 null。
+参数名: type
+   在 ProtoBuf.Meta.TypeModel.PrepareDeserialize(Object value, Type& type)
+   在 ProtoBuf.Meta.TypeModel.Deserialize(Stream source, Object value, Type type, SerializationContext context)
+   在 ProtoBuf.Serializer.NonGeneric.Deserialize(Type type, Stream source)
+   在 SimpleNetServer.Proto.MessageBase.Decode(ProtocolEnum protocol, Byte[] bytes, Int32 offset, Int32 count) 位置 D:\Program Files (x86)\VisualStudioProjects\SimpleNetServer\SimpleNetServer\SimpleNetServer\Proto\MessageBase.cs:行号 268 ServerBase.Debug 
+2020-05-30 18:59:54,915 [1] ERROR ServerBase.Debug - <log4net.Error>Exception during StringFormat: 索引(从零开始)必须大于或等于零，且小于参数列表的大小。 <format>{0}协议内容解析错误：MessageSecret</format><args>{}</args></log4net.Error> ServerBase.Debug 
+2020-05-30 18:59:54,922 [1] DEBUG ServerBase.Debug - 一个客户端断开链接，当前总连接数：0 ServerBase.Debug 
+2020-05-30 19:02:23,874 [1] INFO  ServerBase.Debug - 服务器启动监听127.0.0.1:8021成功 ServerBase.Debug 
+2020-05-30 19:02:29,578 [1] DEBUG ServerBase.Debug - 一个客户端链接：127.0.0.1:8021,当前1个客户端在线！ ServerBase.Debug 
+2020-05-30 19:02:29,677 [1] ERROR ServerBase.Debug - 协议解密出错:System.ArgumentNullException: 值不能为 null。
+参数名: type
+   在 ProtoBuf.Meta.TypeModel.PrepareDeserialize(Object value, Type& type)
+   在 ProtoBuf.Meta.TypeModel.Deserialize(Stream source, Object value, Type type, SerializationContext context)
+   在 ProtoBuf.Serializer.NonGeneric.Deserialize(Type type, Stream source)
+   在 SimpleNetServer.Proto.MessageBase.Decode(ProtocolEnum protocol, Byte[] bytes, Int32 offset, Int32 count) 位置 D:\Program Files (x86)\VisualStudioProjects\SimpleNetServer\SimpleNetServer\SimpleNetServer\Proto\MessageBase.cs:行号 271 ServerBase.Debug 
+2020-05-30 19:02:29,679 [1] ERROR ServerBase.Debug - <log4net.Error>Exception during StringFormat: 索引(从零开始)必须大于或等于零，且小于参数列表的大小。 <format>{0}协议内容解析错误：MessageSecret</format><args>{}</args></log4net.Error> ServerBase.Debug 
+2020-05-30 19:02:29,685 [1] DEBUG ServerBase.Debug - 一个客户端断开链接，当前总连接数：0 ServerBase.Debug 
+2020-05-30 19:04:03,523 [1] INFO  ServerBase.Debug - 服务器启动监听127.0.0.1:8021成功 ServerBase.Debug 
+2020-05-30 19:04:08,318 [1] DEBUG ServerBase.Debug - 一个客户端链接：127.0.0.1:8021,当前1个客户端在线！ ServerBase.Debug 
+2020-05-30 19:04:08,420 [1] ERROR ServerBase.Debug - 协议解密出错:System.ArgumentNullException: 值不能为 null。
+参数名: type
+   在 ProtoBuf.Meta.TypeModel.PrepareDeserialize(Object value, Type& type)
+   在 ProtoBuf.Meta.TypeModel.Deserialize(Stream source, Object value, Type type, SerializationContext context)
+   在 ProtoBuf.Serializer.NonGeneric.Deserialize(Type type, Stream source)
+   在 SimpleNetServer.Proto.MessageBase.Decode(ProtocolEnum protocol, Byte[] bytes, Int32 offset, Int32 count) 位置 D:\Program Files (x86)\VisualStudioProjects\SimpleNetServer\SimpleNetServer\SimpleNetServer\Proto\MessageBase.cs:行号 272 ServerBase.Debug 
+2020-05-30 19:04:08,421 [1] ERROR ServerBase.Debug - <log4net.Error>Exception during StringFormat: 索引(从零开始)必须大于或等于零，且小于参数列表的大小。 <format>{0}协议内容解析错误：MessageSecret</format><args>{}</args></log4net.Error> ServerBase.Debug 
+2020-05-30 19:04:08,428 [1] DEBUG ServerBase.Debug - 一个客户端断开链接，当前总连接数：0 ServerBase.Debug 
+2020-05-30 19:04:38,372 [1] INFO  ServerBase.Debug - 服务器启动监听127.0.0.1:8021成功 ServerBase.Debug 
+2020-05-30 19:04:42,700 [1] DEBUG ServerBase.Debug - 一个客户端链接：127.0.0.1:8021,当前1个客户端在线！ ServerBase.Debug 
+2020-05-30 19:04:42,764 [1] ERROR ServerBase.Debug - bytes != null  1024 ServerBase.Debug 
+2020-05-30 19:04:42,803 [1] ERROR ServerBase.Debug - 协议解密出错:System.ArgumentNullException: 值不能为 null。
+参数名: type
+   在 ProtoBuf.Meta.TypeModel.PrepareDeserialize(Object value, Type& type)
+   在 ProtoBuf.Meta.TypeModel.Deserialize(Stream source, Object value, Type type, SerializationContext context)
+   在 ProtoBuf.Serializer.NonGeneric.Deserialize(Type type, Stream source)
+   在 SimpleNetServer.Proto.MessageBase.Decode(ProtocolEnum protocol, Byte[] bytes, Int32 offset, Int32 count) 位置 D:\Program Files (x86)\VisualStudioProjects\SimpleNetServer\SimpleNetServer\SimpleNetServer\Proto\MessageBase.cs:行号 272 ServerBase.Debug 
+2020-05-30 19:04:42,804 [1] ERROR ServerBase.Debug - <log4net.Error>Exception during StringFormat: 索引(从零开始)必须大于或等于零，且小于参数列表的大小。 <format>{0}协议内容解析错误：MessageSecret</format><args>{}</args></log4net.Error> ServerBase.Debug 
+2020-05-30 19:04:42,811 [1] DEBUG ServerBase.Debug - 一个客户端断开链接，当前总连接数：0 ServerBase.Debug 
+2020-05-30 19:06:03,813 [1] INFO  ServerBase.Debug - 服务器启动监听127.0.0.1:8021成功 ServerBase.Debug 
+2020-05-30 19:06:07,406 [1] DEBUG ServerBase.Debug - 一个客户端链接：127.0.0.1:8021,当前1个客户端在线！ ServerBase.Debug 
+2020-05-30 19:06:07,468 [1] ERROR ServerBase.Debug - newBytes != null  16 ServerBase.Debug 
+2020-05-30 19:06:07,508 [1] ERROR ServerBase.Debug - 协议解密出错:System.ArgumentNullException: 值不能为 null。
+参数名: type
+   在 ProtoBuf.Meta.TypeModel.PrepareDeserialize(Object value, Type& type)
+   在 ProtoBuf.Meta.TypeModel.Deserialize(Stream source, Object value, Type type, SerializationContext context)
+   在 ProtoBuf.Serializer.NonGeneric.Deserialize(Type type, Stream source)
+   在 SimpleNetServer.Proto.MessageBase.Decode(ProtocolEnum protocol, Byte[] bytes, Int32 offset, Int32 count) 位置 D:\Program Files (x86)\VisualStudioProjects\SimpleNetServer\SimpleNetServer\SimpleNetServer\Proto\MessageBase.cs:行号 273 ServerBase.Debug 
+2020-05-30 19:06:07,509 [1] ERROR ServerBase.Debug - <log4net.Error>Exception during StringFormat: 索引(从零开始)必须大于或等于零，且小于参数列表的大小。 <format>{0}协议内容解析错误：MessageSecret</format><args>{}</args></log4net.Error> ServerBase.Debug 
+2020-05-30 19:06:07,516 [1] DEBUG ServerBase.Debug - 一个客户端断开链接，当前总连接数：0 ServerBase.Debug 
+2020-05-30 19:07:23,045 [1] INFO  ServerBase.Debug - 服务器启动监听127.0.0.1:8021成功 ServerBase.Debug 
+2020-05-30 19:07:27,795 [1] DEBUG ServerBase.Debug - 一个客户端链接：127.0.0.1:8021,当前1个客户端在线！ ServerBase.Debug 
+2020-05-30 19:07:27,848 [1] DEBUG ServerBase.Debug - <log4net.Error>Exception during StringFormat: 输入字符串的格式不正确。 <format>{bodyCount：16</format><args>{}</args></log4net.Error> ServerBase.Debug 
+2020-05-30 19:07:27,882 [1] ERROR ServerBase.Debug - newBytes != null  16 ServerBase.Debug 
+2020-05-30 19:07:27,900 [1] ERROR ServerBase.Debug - 协议解密出错:System.ArgumentNullException: 值不能为 null。
+参数名: type
+   在 ProtoBuf.Meta.TypeModel.PrepareDeserialize(Object value, Type& type)
+   在 ProtoBuf.Meta.TypeModel.Deserialize(Stream source, Object value, Type type, SerializationContext context)
+   在 ProtoBuf.Serializer.NonGeneric.Deserialize(Type type, Stream source)
+   在 SimpleNetServer.Proto.MessageBase.Decode(ProtocolEnum protocol, Byte[] bytes, Int32 offset, Int32 count) 位置 D:\Program Files (x86)\VisualStudioProjects\SimpleNetServer\SimpleNetServer\SimpleNetServer\Proto\MessageBase.cs:行号 273 ServerBase.Debug 
+2020-05-30 19:07:27,901 [1] ERROR ServerBase.Debug - <log4net.Error>Exception during StringFormat: 索引(从零开始)必须大于或等于零，且小于参数列表的大小。 <format>{0}协议内容解析错误：MessageSecret</format><args>{}</args></log4net.Error> ServerBase.Debug 
+2020-05-30 19:07:27,906 [1] DEBUG ServerBase.Debug - 一个客户端断开链接，当前总连接数：0 ServerBase.Debug 
+2020-05-30 19:10:19,745 [1] INFO  ServerBase.Debug - 服务器启动监听127.0.0.1:8021成功 ServerBase.Debug 
+2020-05-30 19:10:24,439 [1] DEBUG ServerBase.Debug - 一个客户端链接：127.0.0.1:8021,当前1个客户端在线！ ServerBase.Debug 
+2020-05-30 19:10:24,503 [1] DEBUG ServerBase.Debug - newBytes != null  16 ServerBase.Debug 
+2020-05-30 19:10:24,503 [1] DEBUG ServerBase.Debug - secret   TestPublicKey ServerBase.Debug 
+2020-05-30 19:10:24,541 [1] ERROR ServerBase.Debug - 协议解密出错:System.ArgumentNullException: 值不能为 null。
+参数名: type
+   在 ProtoBuf.Meta.TypeModel.PrepareDeserialize(Object value, Type& type)
+   在 ProtoBuf.Meta.TypeModel.Deserialize(Stream source, Object value, Type type, SerializationContext context)
+   在 ProtoBuf.Serializer.NonGeneric.Deserialize(Type type, Stream source)
+   在 SimpleNetServer.Proto.MessageBase.Decode(ProtocolEnum protocol, Byte[] bytes, Int32 offset, Int32 count) 位置 D:\Program Files (x86)\VisualStudioProjects\SimpleNetServer\SimpleNetServer\SimpleNetServer\Proto\MessageBase.cs:行号 275 ServerBase.Debug 
+2020-05-30 19:10:24,542 [1] ERROR ServerBase.Debug - <log4net.Error>Exception during StringFormat: 索引(从零开始)必须大于或等于零，且小于参数列表的大小。 <format>{0}协议内容解析错误：MessageSecret</format><args>{}</args></log4net.Error> ServerBase.Debug 
+2020-05-30 19:10:24,549 [1] DEBUG ServerBase.Debug - 一个客户端断开链接，当前总连接数：0 ServerBase.Debug 
+2020-05-30 19:11:20,110 [1] INFO  ServerBase.Debug - 服务器启动监听127.0.0.1:8021成功 ServerBase.Debug 
+2020-05-30 19:11:23,344 [1] DEBUG ServerBase.Debug - 一个客户端链接：127.0.0.1:8021,当前1个客户端在线！ ServerBase.Debug 
+2020-05-30 19:11:23,406 [1] DEBUG ServerBase.Debug - newBytes != null  16 ServerBase.Debug 
+2020-05-30 19:11:23,407 [1] DEBUG ServerBase.Debug - secret   TestPublicKey ServerBase.Debug 
+2020-05-30 19:11:23,408 [1] DEBUG ServerBase.Debug - newBytes   2 ServerBase.Debug 
+2020-05-30 19:11:23,448 [1] ERROR ServerBase.Debug - 协议解密出错:System.ArgumentNullException: 值不能为 null。
+参数名: type
+   在 ProtoBuf.Meta.TypeModel.PrepareDeserialize(Object value, Type& type)
+   在 ProtoBuf.Meta.TypeModel.Deserialize(Stream source, Object value, Type type, SerializationContext context)
+   在 ProtoBuf.Serializer.NonGeneric.Deserialize(Type type, Stream source)
+   在 SimpleNetServer.Proto.MessageBase.Decode(ProtocolEnum protocol, Byte[] bytes, Int32 offset, Int32 count) 位置 D:\Program Files (x86)\VisualStudioProjects\SimpleNetServer\SimpleNetServer\SimpleNetServer\Proto\MessageBase.cs:行号 275 ServerBase.Debug 
+2020-05-30 19:11:23,449 [1] ERROR ServerBase.Debug - <log4net.Error>Exception during StringFormat: 索引(从零开始)必须大于或等于零，且小于参数列表的大小。 <format>{0}协议内容解析错误：MessageSecret</format><args>{}</args></log4net.Error> ServerBase.Debug 
+2020-05-30 19:11:23,456 [1] DEBUG ServerBase.Debug - 一个客户端断开链接，当前总连接数：0 ServerBase.Debug 
+2020-05-30 19:13:02,455 [1] INFO  ServerBase.Debug - 服务器启动监听127.0.0.1:8021成功 ServerBase.Debug 
+2020-05-30 19:13:09,217 [1] DEBUG ServerBase.Debug - 一个客户端链接：127.0.0.1:8021,当前1个客户端在线！ ServerBase.Debug 
+2020-05-30 19:13:09,281 [1] DEBUG ServerBase.Debug - newBytes != null  16 ServerBase.Debug 
+2020-05-30 19:13:09,282 [1] DEBUG ServerBase.Debug - secret   TestPublicKey ServerBase.Debug 
+2020-05-30 19:13:09,317 [1] ERROR ServerBase.Debug - 协议解密出错:System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 SimpleNetServer.Proto.MessageBase.Decode(ProtocolEnum protocol, Byte[] bytes, Int32 offset, Int32 count) 位置 D:\Program Files (x86)\VisualStudioProjects\SimpleNetServer\SimpleNetServer\SimpleNetServer\Proto\MessageBase.cs:行号 275 ServerBase.Debug 
+2020-05-30 19:13:09,320 [1] ERROR ServerBase.Debug - <log4net.Error>Exception during StringFormat: 索引(从零开始)必须大于或等于零，且小于参数列表的大小。 <format>{0}协议内容解析错误：MessageSecret</format><args>{}</args></log4net.Error> ServerBase.Debug 
+2020-05-30 19:13:09,327 [1] DEBUG ServerBase.Debug - 一个客户端断开链接，当前总连接数：0 ServerBase.Debug 
+2020-05-30 19:14:15,876 [1] INFO  ServerBase.Debug - 服务器启动监听127.0.0.1:8021成功 ServerBase.Debug 
+2020-05-30 19:14:20,928 [1] DEBUG ServerBase.Debug - 一个客户端链接：127.0.0.1:8021,当前1个客户端在线！ ServerBase.Debug 
+2020-05-30 19:14:20,989 [1] DEBUG ServerBase.Debug - newBytes != null  16 ServerBase.Debug 
+2020-05-30 19:14:20,990 [1] DEBUG ServerBase.Debug - secret   TestPublicKey ServerBase.Debug 
+2020-05-30 19:14:20,991 [1] DEBUG ServerBase.Debug - protocol   MessageSecret ServerBase.Debug 
+2020-05-30 19:14:21,030 [1] ERROR ServerBase.Debug - 协议解密出错:System.ArgumentNullException: 值不能为 null。
+参数名: type
+   在 ProtoBuf.Meta.TypeModel.PrepareDeserialize(Object value, Type& type)
+   在 ProtoBuf.Meta.TypeModel.Deserialize(Stream source, Object value, Type type, SerializationContext context)
+   在 ProtoBuf.Serializer.NonGeneric.Deserialize(Type type, Stream source)
+   在 SimpleNetServer.Proto.MessageBase.Decode(ProtocolEnum protocol, Byte[] bytes, Int32 offset, Int32 count) 位置 D:\Program Files (x86)\VisualStudioProjects\SimpleNetServer\SimpleNetServer\SimpleNetServer\Proto\MessageBase.cs:行号 277 ServerBase.Debug 
+2020-05-30 19:14:21,031 [1] ERROR ServerBase.Debug - <log4net.Error>Exception during StringFormat: 索引(从零开始)必须大于或等于零，且小于参数列表的大小。 <format>{0}协议内容解析错误：MessageSecret</format><args>{}</args></log4net.Error> ServerBase.Debug 
+2020-05-30 19:14:21,037 [1] DEBUG ServerBase.Debug - 一个客户端断开链接，当前总连接数：0 ServerBase.Debug 
+2020-05-30 19:18:07,379 [1] INFO  ServerBase.Debug - 服务器启动监听127.0.0.1:8021成功 ServerBase.Debug 
+2020-05-30 19:18:11,239 [1] DEBUG ServerBase.Debug - 一个客户端链接：127.0.0.1:8021,当前1个客户端在线！ ServerBase.Debug 
+2020-05-30 19:18:11,305 [1] DEBUG ServerBase.Debug - newBytes != null  16 ServerBase.Debug 
+2020-05-30 19:18:11,305 [1] DEBUG ServerBase.Debug - secret   TestPublicKey ServerBase.Debug 
+2020-05-30 19:18:11,306 [1] DEBUG ServerBase.Debug - protocol   MessageSecret ServerBase.Debug 
+2020-05-30 19:18:11,386 [1] DEBUG ServerBase.Debug - 一个客户端断开链接，当前总连接数：0 ServerBase.Debug 
+2020-05-30 19:20:18,065 [1] INFO  ServerBase.Debug - 服务器启动监听127.0.0.1:8021成功 ServerBase.Debug 
+2020-05-30 19:20:22,954 [1] DEBUG ServerBase.Debug - 一个客户端链接：127.0.0.1:8021,当前1个客户端在线！ ServerBase.Debug 
+2020-05-30 19:20:23,017 [1] DEBUG ServerBase.Debug - newBytes != null  16 ServerBase.Debug 
+2020-05-30 19:20:23,018 [1] DEBUG ServerBase.Debug - secret   TestPublicKey ServerBase.Debug 
+2020-05-30 19:20:23,019 [1] DEBUG ServerBase.Debug - protocol   MessageSecret ServerBase.Debug 
+2020-05-30 19:20:23,083 [1] DEBUG ServerBase.Debug - 一个客户端断开链接，当前总连接数：0 ServerBase.Debug 
+2020-05-30 19:23:52,782 [1] DEBUG ServerBase.Debug - 一个客户端链接：127.0.0.1:8021,当前1个客户端在线！ ServerBase.Debug 
+2020-05-30 19:23:52,836 [1] DEBUG ServerBase.Debug - newBytes != null  16 ServerBase.Debug 
+2020-05-30 19:23:52,836 [1] DEBUG ServerBase.Debug - secret   TestPublicKey ServerBase.Debug 
+2020-05-30 19:23:52,837 [1] DEBUG ServerBase.Debug - protocol   MessageSecret ServerBase.Debug 
+2020-05-30 19:23:52,845 [1] DEBUG ServerBase.Debug - 一个客户端断开链接，当前总连接数：0 ServerBase.Debug 
+2020-05-30 19:24:02,534 [1] DEBUG ServerBase.Debug - 一个客户端链接：127.0.0.1:8021,当前1个客户端在线！ ServerBase.Debug 
+2020-05-30 19:24:02,589 [1] DEBUG ServerBase.Debug - newBytes != null  16 ServerBase.Debug 
+2020-05-30 19:24:02,589 [1] DEBUG ServerBase.Debug - secret   TestPublicKey ServerBase.Debug 
+2020-05-30 19:24:02,590 [1] DEBUG ServerBase.Debug - protocol   MessageSecret ServerBase.Debug 
+2020-05-30 19:24:02,599 [1] DEBUG ServerBase.Debug - 一个客户端断开链接，当前总连接数：0 ServerBase.Debug 
+2020-05-30 19:29:42,254 [1] INFO  ServerBase.Debug - 服务器启动监听127.0.0.1:8021成功 ServerBase.Debug 
+2020-05-30 19:29:46,521 [1] DEBUG ServerBase.Debug - 一个客户端链接：127.0.0.1:8021,当前1个客户端在线！ ServerBase.Debug 
+2020-05-30 19:29:46,586 [1] DEBUG ServerBase.Debug - newBytes != null  16 ServerBase.Debug 
+2020-05-30 19:29:46,586 [1] DEBUG ServerBase.Debug - secret   TestPublicKey ServerBase.Debug 
+2020-05-30 19:29:46,587 [1] DEBUG ServerBase.Debug - protocol   MessageSecret ServerBase.Debug 
+2020-05-30 19:30:08,293 [1] DEBUG ServerBase.Debug - 一个客户端断开链接，当前总连接数：0 ServerBase.Debug 
+2020-05-30 19:37:09,195 [1] DEBUG ServerBase.Debug - 一个客户端链接：127.0.0.1:8021,当前1个客户端在线！ ServerBase.Debug 
+2020-05-30 19:37:09,254 [1] DEBUG ServerBase.Debug - newBytes != null  16 ServerBase.Debug 
+2020-05-30 19:37:09,255 [1] DEBUG ServerBase.Debug - secret   TestPublicKey ServerBase.Debug 
+2020-05-30 19:37:09,255 [1] DEBUG ServerBase.Debug - protocol   MessageSecret ServerBase.Debug 
+2020-05-30 19:37:26,394 [1] DEBUG ServerBase.Debug - 一个客户端断开链接，当前总连接数：0 ServerBase.Debug 
+2020-05-30 19:37:41,891 [1] DEBUG ServerBase.Debug - 一个客户端链接：127.0.0.1:8021,当前1个客户端在线！ ServerBase.Debug 
+2020-05-30 19:37:41,944 [1] DEBUG ServerBase.Debug - newBytes != null  16 ServerBase.Debug 
+2020-05-30 19:37:41,945 [1] DEBUG ServerBase.Debug - secret   TestPublicKey ServerBase.Debug 
+2020-05-30 19:37:41,946 [1] DEBUG ServerBase.Debug - protocol   MessageSecret ServerBase.Debug 
+2020-05-30 19:37:50,438 [1] DEBUG ServerBase.Debug - 一个客户端断开链接，当前总连接数：0 ServerBase.Debug 
+2020-05-30 19:37:59,863 [1] DEBUG ServerBase.Debug - 一个客户端链接：127.0.0.1:8021,当前1个客户端在线！ ServerBase.Debug 
+2020-05-30 19:37:59,917 [1] DEBUG ServerBase.Debug - newBytes != null  16 ServerBase.Debug 
+2020-05-30 19:37:59,918 [1] DEBUG ServerBase.Debug - secret   TestPublicKey ServerBase.Debug 
+2020-05-30 19:37:59,918 [1] DEBUG ServerBase.Debug - protocol   MessageSecret ServerBase.Debug 
+2020-05-30 19:38:02,244 [1] DEBUG ServerBase.Debug - 一个客户端断开链接，当前总连接数：0 ServerBase.Debug 
+2020-05-30 19:40:23,047 [1] INFO  ServerBase.Debug - 服务器启动监听127.0.0.1:8021成功 ServerBase.Debug 
+2020-05-30 19:40:32,941 [1] DEBUG ServerBase.Debug - 一个客户端链接：127.0.0.1:8021,当前1个客户端在线！ ServerBase.Debug 
+2020-05-30 19:40:35,129 [1] DEBUG ServerBase.Debug - 一个客户端断开链接，当前总连接数：0 ServerBase.Debug 
+2020-05-30 19:41:43,631 [1] INFO  ServerBase.Debug - 服务器启动监听127.0.0.1:8021成功 ServerBase.Debug 
+2020-05-30 19:41:49,203 [1] DEBUG ServerBase.Debug - 一个客户端连接:127.0.0.1:8021,当前1个客户端在线 ServerBase.Debug 
+2020-05-30 19:41:55,117 [1] DEBUG ServerBase.Debug - 一个客户端断开连接，当前总连接数为：0  ServerBase.Debug 
+2020-05-30 19:46:00,849 [1] INFO  ServerBase.Debug - 服务器启动监听127.0.0.1:8021成功 ServerBase.Debug 
+2020-05-30 19:46:00,984 [1] DEBUG ServerBase.Debug - 一个客户端连接:127.0.0.1:8021,当前1个客户端在线 ServerBase.Debug 
+2020-05-30 19:46:01,120 [1] ERROR ServerBase.Debug - methodInfo.Invoke(null, o); ServerBase.Debug 
+2020-05-30 19:46:01,574 [1] DEBUG ServerBase.Debug - 一个客户端断开连接，当前总连接数为：0  ServerBase.Debug 
+2020-05-30 19:46:07,985 [1] DEBUG ServerBase.Debug - 一个客户端连接:127.0.0.1:8021,当前1个客户端在线 ServerBase.Debug 
+2020-05-30 19:46:08,040 [1] ERROR ServerBase.Debug - methodInfo.Invoke(null, o); ServerBase.Debug 
+2020-05-30 19:47:10,114 [1] INFO  ServerBase.Debug - 服务器启动监听127.0.0.1:8021成功 ServerBase.Debug 
+2020-05-30 19:47:15,035 [1] DEBUG ServerBase.Debug - 一个客户端连接:127.0.0.1:8021,当前1个客户端在线 ServerBase.Debug 
+2020-05-30 19:47:15,152 [1] ERROR ServerBase.Debug - methodInfo.Invoke(null, o); ServerBase.Debug 
+2020-05-30 19:47:19,229 [1] DEBUG ServerBase.Debug - 一个客户端断开连接，当前总连接数为：0  ServerBase.Debug 
+2020-05-30 19:48:32,241 [1] DEBUG ServerBase.Debug - 一个客户端连接:127.0.0.1:8021,当前1个客户端在线 ServerBase.Debug 
+2020-05-30 19:48:32,300 [1] ERROR ServerBase.Debug - methodInfo.Invoke(null, o); ServerBase.Debug 
+2020-05-30 19:48:33,050 [1] DEBUG ServerBase.Debug - 一个客户端断开连接，当前总连接数为：0  ServerBase.Debug 
+2020-05-30 19:55:04,916 [1] DEBUG ServerBase.Debug - 一个客户端连接:127.0.0.1:8021,当前1个客户端在线 ServerBase.Debug 
+2020-05-30 19:55:04,969 [1] ERROR ServerBase.Debug - methodInfo.Invoke(null, o); ServerBase.Debug 
+2020-05-30 19:55:07,487 [1] DEBUG ServerBase.Debug - 一个客户端断开连接，当前总连接数为：0  ServerBase.Debug 
+2020-05-30 19:56:39,048 [1] INFO  ServerBase.Debug - 服务器启动监听127.0.0.1:8021成功 ServerBase.Debug 
+2020-05-30 19:56:42,787 [1] DEBUG ServerBase.Debug - 一个客户端连接:127.0.0.1:8021,当前1个客户端在线 ServerBase.Debug 
+2020-05-30 19:56:42,907 [1] ERROR ServerBase.Debug - methodInfo.Invoke(null, o); ServerBase.Debug 
+2020-05-30 19:56:47,680 [1] DEBUG ServerBase.Debug - 一个客户端断开连接，当前总连接数为：0  ServerBase.Debug 
+2020-05-30 22:15:56,459 [1] INFO  ServerBase.Debug - 服务器启动监听127.0.0.1:8021成功 ServerBase.Debug 
+2020-05-30 22:18:09,598 [1] DEBUG ServerBase.Debug - 一个客户端连接:127.0.0.1:8021,当前1个客户端在线 ServerBase.Debug 
+2020-05-30 22:18:40,600 [1] ERROR ServerBase.Debug - 协议解密出错 ：System.Security.Cryptography.CryptographicException: 填充无效，无法被移除。
+   在 AES.AESDecrypt(Byte[] DecryptByte, String DecryptKey) 位置 D:\Program Files (x86)\VisualStudioProjects\SimpleNetServer\SimpleNetServer\ServerBase\AES.cs:行号 207
+   在 SimpleNetServer.Proto.MessageBase.Decode(ProtocolEnum protocol, Byte[] bytes, Int32 offset, Int32 count) 位置 D:\Program Files (x86)\VisualStudioProjects\SimpleNetServer\SimpleNetServer\SimpleNetServer\Proto\MessageBase.cs:行号 135 ServerBase.Debug 
+2020-05-30 22:18:40,602 [1] ERROR ServerBase.Debug - MessageSecret 解析协议内容 Error  ServerBase.Debug 
+2020-05-30 22:18:40,602 [1] DEBUG ServerBase.Debug - 一个客户端断开连接，当前总连接数为：0  ServerBase.Debug 
+2020-05-30 22:28:11,117 [1] INFO  ServerBase.Debug - 服务器启动监听127.0.0.1:8021成功 ServerBase.Debug 
+2020-05-30 22:28:18,105 [1] DEBUG ServerBase.Debug - 一个客户端连接:127.0.0.1:8021,当前1个客户端在线 ServerBase.Debug 
+2020-05-30 22:28:48,543 [1] ERROR ServerBase.Debug - 协议解密出错 ：System.Security.Cryptography.CryptographicException: 填充无效，无法被移除。
+   在 AES.AESDecrypt(Byte[] DecryptByte, String DecryptKey) 位置 D:\Program Files (x86)\VisualStudioProjects\SimpleNetServer\SimpleNetServer\ServerBase\AES.cs:行号 207
+   在 SimpleNetServer.Proto.MessageBase.Decode(ProtocolEnum protocol, Byte[] bytes, Int32 offset, Int32 count) 位置 D:\Program Files (x86)\VisualStudioProjects\SimpleNetServer\SimpleNetServer\SimpleNetServer\Proto\MessageBase.cs:行号 135 ServerBase.Debug 
+2020-05-30 22:28:48,544 [1] ERROR ServerBase.Debug - MessageSecret 解析协议内容 Error  ServerBase.Debug 
+2020-05-30 22:28:48,544 [1] DEBUG ServerBase.Debug - 一个客户端断开连接，当前总连接数为：0  ServerBase.Debug 
+2020-05-30 22:41:48,984 [1] INFO  ServerBase.Debug - 服务器启动监听127.0.0.1:8021成功 ServerBase.Debug 
+2020-05-30 22:41:53,766 [1] DEBUG ServerBase.Debug - 一个客户端连接:127.0.0.1:8021,当前1个客户端在线 ServerBase.Debug 
+2020-05-30 22:42:24,547 [1] ERROR ServerBase.Debug - 协议解密出错:System.Security.Cryptography.CryptographicException: 填充无效，无法被移除。
+   在 AES.AESDecrypt(Byte[] DecryptByte, String DecryptKey) 位置 D:\Program Files (x86)\VisualStudioProjects\SimpleNetServer\SimpleNetServer\ServerBase\AES.cs:行号 207
+   在 SimpleNetServer.Proto.MessageBase.Decode(ProtocolEnum protocol, Byte[] bytes, Int32 offset, Int32 count) 位置 D:\Program Files (x86)\VisualStudioProjects\SimpleNetServer\SimpleNetServer\SimpleNetServer\Proto\MessageBase.cs:行号 256 ServerBase.Debug 
+2020-05-30 22:42:24,547 [1] ERROR ServerBase.Debug - MessageSecret 解析协议内容 Error  ServerBase.Debug 
+2020-05-30 22:42:24,548 [1] DEBUG ServerBase.Debug - 一个客户端断开连接，当前总连接数为：0  ServerBase.Debug 
+2020-05-30 22:46:42,091 [1] INFO  ServerBase.Debug - 服务器启动监听127.0.0.1:8021成功 ServerBase.Debug 
+2020-05-30 22:46:46,085 [1] DEBUG ServerBase.Debug - 一个客户端链接：127.0.0.1:8021,当前1个客户端在线！ ServerBase.Debug 
+2020-05-30 22:47:16,542 [1] ERROR ServerBase.Debug - 协议解密出错:System.Security.Cryptography.CryptographicException: 填充无效，无法被移除。
+   在 AES.AESDecrypt(Byte[] DecryptByte, String DecryptKey) 位置 D:\Program Files (x86)\VisualStudioProjects\SimpleNetServer\SimpleNetServer\ServerBase\AES.cs:行号 207
+   在 SimpleNetServer.Proto.MessageBase.Decode(ProtocolEnum protocol, Byte[] bytes, Int32 offset, Int32 count) 位置 D:\Program Files (x86)\VisualStudioProjects\SimpleNetServer\SimpleNetServer\SimpleNetServer\Proto\MessageBase.cs:行号 256 ServerBase.Debug 
+2020-05-30 22:47:16,543 [1] ERROR ServerBase.Debug - <log4net.Error>Exception during StringFormat: 索引(从零开始)必须大于或等于零，且小于参数列表的大小。 <format>{0}协议内容解析错误：MessageSecret</format><args>{}</args></log4net.Error> ServerBase.Debug 
+2020-05-30 22:47:16,553 [1] DEBUG ServerBase.Debug - 一个客户端断开链接，当前总连接数：0 ServerBase.Debug 
+2020-05-30 22:49:48,961 [1] INFO  ServerBase.Debug - 服务器启动监听127.0.0.1:8021成功 ServerBase.Debug 
+2020-05-30 22:49:59,138 [1] DEBUG ServerBase.Debug - 一个客户端链接：127.0.0.1:8021,当前1个客户端在线！ ServerBase.Debug 
+2020-05-30 22:50:29,502 [1] DEBUG ServerBase.Debug - 收到客户端的心跳包 ServerBase.Debug 
+2020-05-30 22:51:00,501 [1] DEBUG ServerBase.Debug - 收到客户端的心跳包 ServerBase.Debug 
+2020-05-30 22:51:05,829 [1] DEBUG ServerBase.Debug - 一个客户端断开链接，当前总连接数：0 ServerBase.Debug 
+2020-05-30 22:52:40,712 [1] INFO  ServerBase.Debug - 服务器启动监听127.0.0.1:8021成功 ServerBase.Debug 
+2020-05-30 22:52:46,890 [1] DEBUG ServerBase.Debug - 一个客户端连接:127.0.0.1:8021,当前1个客户端在线 ServerBase.Debug 
+2020-05-30 22:53:17,503 [1] DEBUG ServerBase.Debug - 收到客户端的心跳包 ServerBase.Debug 
+2020-05-30 22:53:48,501 [1] DEBUG ServerBase.Debug - 收到客户端的心跳包 ServerBase.Debug 
+2020-05-30 22:54:19,501 [1] DEBUG ServerBase.Debug - 收到客户端的心跳包 ServerBase.Debug 
+2020-05-30 22:54:22,502 [1] DEBUG ServerBase.Debug - 一个客户端断开连接，当前总连接数为：0  ServerBase.Debug 
